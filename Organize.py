@@ -13,7 +13,7 @@ webs=".asp",".cer",".css",".dcr",".htm",".html",".js",".jsp",".xhtml"
 systems= ".cab",".cpl",".dll",".dmp",".drv",".ico",".lnk",".sys",".cfg",".ini",".prf"
 codes= ".c",".class",".cs",".cpp",".java",".pl",".py",".vcxproj"
 
-path = ("D:/Users/"YOUR USER"/Documents/Prgrms/PathForPrgm/")
+path = ("D:/Users/"(YOUR USER)"/Documents/Prgrms/PathForPrgm/")
 names = os.listdir(path)
 folder_name = ['images','apps','documents','songs','videos', 'zip','data','games','web','system','code']
 for x in range(0,11):
