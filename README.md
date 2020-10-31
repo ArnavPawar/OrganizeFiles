@@ -1,8 +1,6 @@
 # OrganizeFiles
 Description: OrganizeFiles is a python program built to find files in a given location and move them to a new folder, created by the program. This is done by scanning the inputted folder and categorizing it into their own folders, based on their respective file types.   
 
-Name: Arnav Pawar
-
 How to run this program locally: 
 
 Download the entire repository onto your local machine 
